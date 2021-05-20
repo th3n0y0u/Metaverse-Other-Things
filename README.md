@@ -9,25 +9,25 @@ https://roblox.fandom.com/wiki/Metaverse_Champions
 Week 1 Crate - Sparks' Coronet
 Week 2 Crate - Sparks' Wand of Wonder
 Week 3 Crate - Sparks' Dragon, O-VA9000
-Week 4 Crate - ???
+Week 4 Crate - Sparks and Pearls
 
 [FEY CRATES]
 Week 1 Crate - Fey's Diadem
 Week 2 Crate - Fey's Siphon Sword
 Week 3 Crate - Fey's Bat, Bertolf
-Week 4 Crate - ???
+Week 4 Crate - Fey's Eternal Ember
 
 [AJ STRIKER CRATES]
 Week 1 Crate - AJ's Headset
 Week 2 Crate - AJ's Blaster, The Bahemoth
 Week 3 Crate - AJ's Companion Bot
-Week 4 Crate - ???
+Week 4 Crate - AJ's Swarm Drone
 
 [WREN CRATES]
 Week 1 Crate - Wren's Crown
 Week 2 Crate - Wren's Recurve Bow of Recreation
 Week 3 Crate - Wren's Berhdi, Lord of Alchemy
-Week 4 Crate - ???
+Week 4 Crate - Wren's Winding Willow
 
 [LAUNCHER BOXES]
 Admin's Launcher Box	
