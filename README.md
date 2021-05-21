@@ -42,10 +42,11 @@ Touch the box in the Metaverse Champions Hub when launched by developers of part
 MVP's Launcher Box	
 Touch the box in the Metaverse Champions Hub when launched by "MVPs" (users who purchased the launcher for a varying price or obtained 8 badges from a single champion during that week).
 
-Admin's Launcher Box - ???
-Video Star's Box - ???
-Developer's Launcher Box - ???
-MVP's Launcher Box - ???
+Admin's Launcher Box - Shard of Valkyrie, the Admins
+Video Star's Box - Shard of Valkyrie, the Video Stars
+Developer's Launcher Box - Shard of Valkryie, the Developers
+MVP's Launcher Box - Shard of Valkyrie, the MVPs
+Launcher Pro - Valkyrie of the Metaverse
 
 [GRAND PRIZE]
-Sparks - ??? N/A
+Sparks - Sparks' Winner Wings
