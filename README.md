@@ -35,6 +35,31 @@ FEY YOSHIDA - Collect all 4 Fey's Terror Crates
 AJ STRIKER - Collect all 4 AJ's Drop Crates
 WREN BRIGHTENBLADE - Collect all 4 Wren's Treasure Chest
 
+[OUTFITS]
+Sparks Kilowatt's Shirt
+Metaverse Champions Hub	Given automatically upon joining the Metaverse Champions Hub.
+
+Sparks Kilowatt's Pants	
+Metaverse Champions Hub	Given automatically upon joining the Metaverse Champions Hub.
+
+AJ Striker's Shirt	
+Metaverse Champions Hub	Given automatically upon joining the Metaverse Champions Hub.
+
+AJ Striker's Pants	
+Metaverse Champions Hub	Given automatically upon joining the Metaverse Champions Hub.
+
+Fey Yoshida's Shirt	
+Metaverse Champions Hub	Given automatically upon joining the Metaverse Champions Hub.
+
+Fey Yoshida's Pants
+Metaverse Champions Hub	Given automatically upon joining the Metaverse Champions Hub.
+
+Wren Brightblade's Shirt	
+Metaverse Champions Hub	Given automatically upon joining the Metaverse Champions Hub.
+
+Wren Brightblade's Pants	
+Metaverse Champions Hub	Given automatically upon joining the Metaverse Champions Hub.
+
 [LAUNCHER BOXES]
 Admin's Launcher Box	
 Touch the box in the Metaverse Champions Hub when launched by users in the Official Group of Roblox.
