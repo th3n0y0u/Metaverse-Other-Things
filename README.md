@@ -29,6 +29,12 @@ Week 2 Crate - Wren's Recurve Bow of Recreation
 Week 3 Crate - Wren's Berhdi, Lord of Alchemy
 Week 4 Crate - Wren's Winding Willow
 
+[BUNDLES]
+SPARKS KILOWATT - Collect all 4 Sparks' Secret Crates
+FEY YOSHIDA - Collect all 4 Fey's Terror Crates
+AJ STRIKER - Collect all 4 AJ's Drop Crates
+WREN BRIGHTENBLADE - Collect all 4 Wren's Treasure Chest
+
 [LAUNCHER BOXES]
 Admin's Launcher Box	
 Touch the box in the Metaverse Champions Hub when launched by users in the Official Group of Roblox.
